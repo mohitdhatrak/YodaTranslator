@@ -62,7 +62,7 @@ body {
 #output-text {
     margin: 2rem auto;
     width: 31rem;
-    height: 9rem;
+    min-height: 9rem;
     border: 1px solid black;
     padding: 1rem 1.5rem;
     max-width: 80%;
