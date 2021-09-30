@@ -1,4 +1,4 @@
-# YodaTranslator
+# Yoda Translator
 
 Want to learn a new language?
 
